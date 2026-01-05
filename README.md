@@ -2,7 +2,7 @@
 
 I'm [**Shimi**](https://shimijallores.com), a software engineer and 3d artist from Lipa Batangas.
 
-I currently work as a freelance software engineer at [**@Upwork**](https://github.com/upwork), where I help clients build Fullstack web solutions that converts. I also do software engineering related commissions.
+I currently work as a contractual software engineer at [**@Upwork**](https://github.com/upwork), where I help clients build Fullstack web solutions that converts. I also do software engineering related commissions.
 
 Outside of work, I'm interested in following the developments of science and technology. I dabble with 3d stuff, play video games, and do my best in every waking hour.
 
