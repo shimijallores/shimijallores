@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Shimi**](https://shimijallores.com), a software engineer and 3d artist from Lipa Batangas.
+I'm [**Shimi**](https://shimijallores.tech), a software engineer and 3d artist from Lipa Batangas.
 
 I currently work as a contractual software engineer, where I help clients build Fullstack web solutions that converts. I also do software engineering related commissions.
 
